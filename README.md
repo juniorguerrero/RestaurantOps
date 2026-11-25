@@ -17,3 +17,7 @@ date. The stock alert reflects current stock. Demo timestamps are local.
 The planned build adds a browser interface, reservation and shift changes,
 inventory movements linked to recipe ingredients, sales import, and transparent
 historical covers estimates. The starter is a read-only snapshot after seeding.
+
+## License
+
+[MIT](LICENSE)
